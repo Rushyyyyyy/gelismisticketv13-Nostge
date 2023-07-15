@@ -1,5 +1,5 @@
-# Nostge V13 Ticket Bot
-Nostge - V13 Ticket botu Telif hakkı vardır izinsiz paylaşım yapmak yasaktır 
+# Nostge V13 Gelişmiş Ticket Bot
+Nostge - V13 Gelişmiş Ticket botu Telif hakkı vardır izinsiz paylaşım yapmak yasaktır 
 <br>
 <br>
 Hata Çıkarsa ilk önce<br>
